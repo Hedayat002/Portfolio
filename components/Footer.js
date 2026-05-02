@@ -18,7 +18,9 @@ export default function Footer() {
             </a>
           ))}
         </div>
-        <p className="text-slate-600 text-xs font-mono">© 2025 Md Hedayat Ali</p>
+       <p className="text-slate-600 text-xs font-mono">
+  © {new Date().getFullYear()} Md Hedayat Ali
+</p>
       </div>
     </footer>
   )
