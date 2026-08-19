@@ -15,6 +15,7 @@ A modern, full-stack portfolio built with **Next.js**, **Tailwind CSS**, and **M
 - Fully responsive — mobile, tablet, desktop
 - Dark theme with teal accent, noise texture, floating orbs
 - Custom scrollbar, smooth scroll, sticky nav
+- **NEW**: Enhanced performance optimizations
 
 ## Setup
 
@@ -76,3 +77,9 @@ portfolio/
 - Update project GitHub links in `components/Projects.js`
 - Add `resume.pdf` to `public/` folder
 - Change colors in `tailwind.config.js` and `styles/globals.css`
+
+## Contributing
+Feel free to fork this repository and submit pull requests for any improvements!
+
+## License
+MIT License - feel free to use this portfolio as a template.
